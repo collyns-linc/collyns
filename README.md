@@ -1,6 +1,7 @@
 # Collins Ochieng GitHub Profile
----
+
 ## Languages
+
 - Python
 - JavaScript
 - Java
@@ -9,7 +10,7 @@
 - CSS
 
 ## Tools
+
 - VSCODE
 - Git
 - GitHub
-- 
